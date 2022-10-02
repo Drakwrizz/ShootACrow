@@ -1,2 +1,2 @@
 # ShootACrow
-C'est mon premier jeu sur java
+This is my first game.
