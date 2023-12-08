@@ -1,3 +1,3 @@
 # ShootACrow
 This is my first game.
-It was made in my first account, Now deleted 
+It was made on my first account, which is now deleted.
